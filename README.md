@@ -127,10 +127,10 @@ Contributors may use:
 - approved seed image packs provided by the maintainers
 - public-safe prompts and labels
 
-Contributors who need access to seed images can contact the maintainers by email.
+Contributors who need access to seed images can contact the maintainers by email. Contact [abhijeet@366pitech.com]
 
 Do not commit private geo-tagged images, precise location data, private farm or project data, credentials, model access tokens, or restricted-license imagery to the repository.
-or contact [abhijeet@366pitech.com] for a sample image dataset
+
 
 ## Contribution Guidelines
 
